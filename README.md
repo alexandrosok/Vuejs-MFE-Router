@@ -1,0 +1,32 @@
+
+VueJs Micro-Front End Stucture with routing <img src="http://icons.iconarchive.com/icons/blackvariant/button-ui-requests-15/96/Filehippo-icon.png" />
+
+# Vuejs-MFE-Router 
+
+## How to run this project
+1. Clone the projects :
+    <br />
+    ```
+    $ git clone https://github.com/alexandrosok/Vuejs-MFE-router-page1.git page1
+    ```
+    
+    <br />
+    
+    ```
+    $ git clone https://github.com/alexandrosok/Vuejs-MFE-router-page2.git page2
+    ```
+    <br />
+    
+    ```
+    $ git clone https://github.com/alexandrosok/Vuejs-MFE-router-page3.git page3
+    ```
+    ** !important: Don't Forget to add the correct folder name while cloning
+    
+    <br />
+2. Jump into each app folder and do:
+   - `npm install`
+   - `npm run watch:portal`
+3. Then start the portal with:
+   - `npm install`
+   - `npm run watch`
+4. Open up http://localhost:9000 in a web browser.
