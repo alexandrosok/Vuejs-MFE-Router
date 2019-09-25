@@ -53,7 +53,9 @@ vue-list-component-mf-structure
 <h3>Communication</h3>
 The original solution is using redux lib as a storage and event emmition (which makes more sense as I am thinking about  it)
 
-The currect solution is using custom browser events and localstorage 
+The currect solution is using custom browser events and localstorage.
+Basically an event is emmited from a component and it will be caught from the assigned component.
+No run time errors will occure if the component that is suppose to catch this event is missing. 
 
 <h4>Ps. Efford on the UI = 0.1 </h4>
 
