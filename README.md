@@ -30,3 +30,25 @@ VueJs Micro-Front End Stucture with routing <img src="http://icons.iconarchive.c
    - `npm install`
    - `npm run watch`
 4. Open up http://localhost:9000 in a web browser.
+
+<h3>External Components</h3>
+    External components are injected inside the package.json file of each app ( they will be installed automagically):
+<br />
+
+```
+vue-form-component-v1-test
+```
+
+<br />
+
+```
+vue-address-form-v1-mf-structure
+```
+
+<br />
+
+```
+vue-list-component-mf-structure
+```
+
+<br />
