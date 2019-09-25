@@ -1,13 +1,13 @@
 {
-  "name": "single-spa-portal-example-frame",
+  "name": "vuejs-mf-structure",
   "version": "1.0.0",
-  "description": "Portal app that builds the foundation of multiple SPAs",
+  "description": "",
   "scripts": {
     "watch": "webpack-dev-server --port 9000",
     "build": "webpack -p --progress"
   },
-  "author": "Michael Ruecker",
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
