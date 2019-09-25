@@ -38,17 +38,23 @@ VueJs Micro-Front End Stucture with routing <img src="http://icons.iconarchive.c
 ```
 vue-form-component-v1-test
 ```
-
 <br />
 
 ```
 vue-address-form-v1-mf-structure
 ```
-
 <br />
 
 ```
 vue-list-component-mf-structure
 ```
-
 <br />
+
+<h3>Communication</h3>
+The original solution is using redux lib as a storage and event emmition (which makes more sense as I am thinking about  it)
+
+The currect solution is using custom browser events and localstorage 
+
+<h4>Ps. Efford on the UI = 0.1 </h4>
+
+
