@@ -57,5 +57,5 @@ The currect solution is using custom browser events and localstorage
 
 <h4>Ps. Efford on the UI = 0.1 </h4>
 
-
+<img src="https://image.prntscr.com/image/kex_WSP0SQGGAQXn0J4S3g.png" />
 
